@@ -12,13 +12,6 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 <br>
-<p align="center">
-  <img alt="DevLinks project" src="./assets/project.png" width="100%">
-</p>
-
-<p align="center">
-  <img alt="DevLinks project" src="./assets/project-light-mode.png" width="100%">
-</p>
 
 ## 🚀 Technologies
 This project was developed with the following technologies:
@@ -31,7 +24,6 @@ This project was developed with the following technologies:
 ## 💻 Project
 DevLinks is a link aggregator to be used as an online business card.
 
-- [Access the finished project, online.](https://fernandoalvesrufino.github.io/devlinks/)
 
 `PS: The light and dark mode functionality was implemented.`
 
@@ -61,7 +53,7 @@ by Fernando Rufino
 </p> 
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+
 </p>
 
 <br>
@@ -103,6 +95,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-by Fernando Rufino
-
-`Projeto criado pela Rocketseat`
+by Lucas Schneider
